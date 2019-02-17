@@ -1,6 +1,6 @@
 IMPORTANT:
 
-My true Project 0 is at this link, I never updated this until now!
+My true Project 1 is at this link, I never updated this until now!
 https://github.com/csfrancis94/project0-ers-api-csfrancis94
 
 # Expense Reimbursement System (ERS) API
